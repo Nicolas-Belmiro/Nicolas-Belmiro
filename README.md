@@ -2,8 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveira-6b1b64b7/)
 
-Olá, eu sou estudante de Analise e Desenvolvimento de Sistemas e estou a procura do primeiro emprego como programador 
-<h2>Meus Status do Git Hub 📖</h2>
+Olá, eu sou estudante de Analise e Desenvolvimento de Sistemas e estou a procura da primeira vaga como dev, Realizo curso de especificação em Java na EBAC ancioso pelo resultados dos meus esforços me acompanhe nessa  jornada .
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">

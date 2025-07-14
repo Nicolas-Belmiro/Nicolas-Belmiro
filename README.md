@@ -1,6 +1,7 @@
-<img src="https://github.com/Nicolas-Belmiro/Nicolas-Belmiro/blob/main/berserk-manga-hd-wallpaper.jpg" width="100%" height="400" />
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*uZ0HuLOmdSCRCeBPdkViqg.png" width="100%" height="400" />
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveira-6b1b64b7/)
+<a href = "mailto:nibeolive@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Olá, eu sou estudante de Analise e Desenvolvimento de Sistemas e estou a procura da primeira vaga como dev, Realizo curso de especificação em Java na EBAC ancioso pelo resultados dos meus esforços me acompanhe nessa  jornada .
 

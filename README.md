@@ -13,7 +13,6 @@ Olá, eu sou estudante de Analise e Desenvolvimento de Sistemas e estou a procur
 
 <h2>Minha Stack de Tecnologias 👨‍💻</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
